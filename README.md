@@ -23,9 +23,6 @@ It does not mean that the content is appropriate to 13 year olds. It just says t
 
 For parents, it is important to understand that the content on various platforms may be inappropriate or undmoderated.  
 
-Below is a living list of available parental contols that are curated on a regular basis based on the applications that are currently
-used.
-
 # List of parental controls
 
 Below is a living list of available parental contols that are curated on a regular basis based on the applications that are currently
