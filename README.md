@@ -2,7 +2,7 @@
 Collection of links and information for parents on Internet Safety
 
 # What is important to know
-Talk to your children about their internet usage is important. The controls listed below are support tools to help your kids
+Talking to your children about their internet usage is important. The controls listed below are support tools to help your kids
 manage their time and limit their exposure to inappropiate content and other potential security problems.
 
 You cannot control everything so maintaining a good dialog with them is vital. Most parents feel they are not technical enough to
