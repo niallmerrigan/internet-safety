@@ -26,7 +26,10 @@ For parents, it is important to understand that the content on various platforms
 Below is a living list of available parental contols that are curated on a regular basis based on the applications that are currently
 used.
 
+# List of parental controls
 
+Below is a living list of available parental contols that are curated on a regular basis based on the applications that are currently
+used.
 
 * Apple iOS - https://support.apple.com/en-us/119854
 * Google/Android - https://support.google.com/families/answer/6286986?hl=en&co=GENIE.Platform%3DDesktop&oco=1
