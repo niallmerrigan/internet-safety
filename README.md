@@ -12,6 +12,7 @@ Collection of links and information for parents on Internet Safety
 * WhatsApp - https://faq.whatsapp.com/323781503786199
 * XBox - https://www.xbox.com/en-US/family-hub
 * Playstation - https://www.playstation.com/en-us/parental-controls/
+* Nintendo - https://www.nintendo.com/us/store/products/nintendo-switch-parental-controls-mobile/
 * Telegram - NO PARENTAL CONTROLS
 * Signal - NO PARENTAL CONTROLS -
 
