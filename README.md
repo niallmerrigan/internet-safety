@@ -42,7 +42,9 @@ used.
 * Playstation - https://www.playstation.com/en-us/parental-controls/
 * Nintendo - https://www.nintendo.com/us/store/products/nintendo-switch-parental-controls-mobile/
 * Telegram - NO PARENTAL CONTROLS
-* Signal - NO PARENTAL CONTROLS -  
+* Signal - NO PARENTAL CONTROLS   
+
+# Information from Norwegian state services
 
 * https://www.medietilsynet.no/fakta/rapporter/barn-og-medier/
 * https://www.medietilsynet.no/globalassets/publikasjoner/barn-og-medier-undersokelser/2022/230206_digitale-dilemmaer.pdf
