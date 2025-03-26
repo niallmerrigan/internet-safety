@@ -85,7 +85,18 @@ Game ratings are based on content.
 Discord is a chat platform that is used extensively by the gaming community, The popularity of Discord makes its a target for scammers, hackers and and spammers. And
 due to the amount of functionality it offers such as text chat, voice, video and screen sharing it can open up your children to different threats and attacks.
 
-One of the most common attacks is scammers looking to get access to people's gaming accounts for example Roblox
+THe most common scam is people trying to steal your game acocunt and it is especially common on servers dedicated to a particular game.  
+
+The scam works as follows.
+
+You will be contacted via private message by someone claiming that you will need to log into your game account via the link thta they sent you. They might say that you will
+get free items, additional in game currency or very hard to find items due to their link, whatever it takes to get the person to log in. The page that they are sending you 
+to is a fake page that looks the real one but is designed to copy your details to the scammer. This is known as phishing.
+
+Once they have your log in details, they will empty your account of anything valuable and lock you out thus losing access to your account. It may not be possible to reset or 
+recover any items that you have lost. 
+
+Parents should advise their children not to click the links on private messages from anyone and if they get them to have you check with them to understand what is happening.
 
 # Information from Norwegian state services
 
