@@ -56,7 +56,7 @@ used. Please
 * Nintendo - https://www.nintendo.com/us/store/products/nintendo-switch-parental-controls-mobile/
 * Roblox - https://en.help.roblox.com/hc/en-us/articles/30428248050068-Parental-Controls-FAQ
 * Minecraft - https://www.minecraft.net/en-us/article/parental-controls
-* 
+  
 
 # Apps without parental controls
 
