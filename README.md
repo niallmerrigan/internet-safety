@@ -13,6 +13,7 @@ and dangers. There is a lot of information available from the various state serv
 very good and provide excellent guidance to parents.
 
 # Why are most services limited to persons 13 years old and older
+
 The reason for 13 year old limit is due to COPPA, the Child Online Privacy Protection Act, which is an American law, brought in
 to protect the privacy of users under the age of 13. COPPA imposes certain requirements on operators of websites or online services 
 directed to children under 13 years of age, and on operators of other websites or online services that have actual knowledge 
@@ -28,9 +29,15 @@ For parents, it is important to understand that the content on various platforms
 Below is a living list of available parental contols that are curated on a regular basis based on the applications that are currently
 used. Please 
 
+
+# Account
+
 * Apple iOS - https://support.apple.com/en-us/119854
 * Google/Android - https://support.google.com/families/answer/6286986?hl=en&co=GENIE.Platform%3DDesktop&oco=1
 * Microsoft Windows - https://account.microsoft.com/family/windows/coldstart
+
+# Social Media
+
 * YouTube - https://www.youtube.com/howyoutubeworks/user-settings/parental-controls/
 * Snapchat - https://parents.snapchat.com/parental-controls
 * TikTok - https://support.tiktok.com/en/safety-hc/account-and-user-safety/family-pairing
@@ -38,11 +45,33 @@ used. Please
 * Discord - https://discord.com/family-center
 * Likee - https://likee.video/cs_source/help_center
 * WhatsApp - https://faq.whatsapp.com/323781503786199
+* Messenger - https://www.facebook.com/help/messenger-app/290834031507763/
+* Zoomerang - https://help.zoomerang.app/en/article/account-privacy-and-safety-ccfxrw/
+* Strava - https://support.strava.com/hc/en-us/articles/4412328250893-Your-Privacy-Control-Defaults-When-You-re-Under-18-on-Strava
+* 
+
+
+# Gaming
+
 * XBox - https://www.xbox.com/en-US/family-hub
 * Playstation - https://www.playstation.com/en-us/parental-controls/
 * Nintendo - https://www.nintendo.com/us/store/products/nintendo-switch-parental-controls-mobile/
-* Telegram - NO PARENTAL CONTROLS
-* Signal - NO PARENTAL CONTROLS
+* Roblox - https://en.help.roblox.com/hc/en-us/articles/30428248050068-Parental-Controls-FAQ
+* Minecraft - https://www.minecraft.net/en-us/article/parental-controls
+* 
+
+# Apps without parental controls
+
+These are common applications used which do not support parental controls. 
+
+* Telegram 
+* Signal 
+* BeReal 
+* Twitch 
+* X (formmally Twitter)
+* Jodel
+* Viber
+* Yubo - https://support.yubo.live/hc/en-us/sections/360004055860-Yubo-for-parents
 
 # Video game ratings and online play
 
@@ -53,6 +82,13 @@ based on the game's content. The age rating is not intended to indicate the diff
 
 Game ratings are based on content.
 
+# About Discord
+
+Discord is a chat platform that is used extensively by the gaming community, The popularity of Discord makes its a target for scammers, hackers and and spammers. And
+due to the amount of functionality it offers such as text chat, voice, video and screen sharing it can open up your children to different threats and attacks.
+
+One of the most common attacks is scammers looking to get access to people's gaming accounts for example Roblox
+
 # Information from Norwegian state services
 
 * https://www.medietilsynet.no/fakta/rapporter/barn-og-medier/
@@ -62,3 +98,4 @@ Game ratings are based on content.
 * https://www.bufdir.no/statistikk-og-analyse/mediebruk/mediebruk/
 * https://www.politiet.no/rad/trygg-nettbruk/seksuell-utnyttelse-av-barn-over-internett/
 * https://www.politiet.no/rad/trygg-nettbruk/delbart/
+* https://www.barnevakten.no/app/jodel/
