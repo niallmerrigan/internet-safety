@@ -46,12 +46,14 @@ used. Please
 
 # Video game ratings and online play
 
-Most video games released since 2003 in European markets have been rated by PEGI (Pan European Game Information). This ratings system
+Most video games released since 2003 in European markets have been rated by [PEGI](https://pegi.info/) (Pan European Game Information). This ratings system
 is now used by 41 countries and is based on a code of conduct, a set of rules to which every publisher using the PEGI system is contractually committed. 
 PEGI self-regulation is composed by five age categories and nine content descriptors that advise the suitability of a game for a certain age range 
 based on the game's content. The age rating is not intended to indicate the difficulty of the game or the skill required to play it.
 
 Game ratings are based on content.
+
+
 
 
 
