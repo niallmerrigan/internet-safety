@@ -66,7 +66,7 @@ These are common applications used which do not support parental controls.
 * Signal 
 * BeReal 
 * Twitch 
-* X (formmally Twitter)
+* X (formmlly Twitter)
 * Jodel
 * Viber
 * Yubo - https://support.yubo.live/hc/en-us/sections/360004055860-Yubo-for-parents
