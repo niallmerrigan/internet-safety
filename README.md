@@ -48,9 +48,7 @@ used. Please
 * Messenger - https://www.facebook.com/help/messenger-app/290834031507763/
 * Zoomerang - https://help.zoomerang.app/en/article/account-privacy-and-safety-ccfxrw/
 * Strava - https://support.strava.com/hc/en-us/articles/4412328250893-Your-Privacy-Control-Defaults-When-You-re-Under-18-on-Strava
-* 
-
-
+  
 # Gaming
 
 * XBox - https://www.xbox.com/en-US/family-hub
