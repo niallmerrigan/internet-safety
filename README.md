@@ -1,7 +1,7 @@
 # Internet Safety for Parents
 Collection of links and information for parents on Internet Safety
 
-# What is important to know
+## What is important to know
 Talking to your children about their internet usage is important. The controls listed below are support tools to help your kids
 manage their time and limit their exposure to inappropiate content and other potential security problems.
 
@@ -12,7 +12,7 @@ Finally, treat the internet as both a tool and a weapon much like scissors. Educ
 and dangers. There is a lot of information available from the various state services such as [BufDir](https://www.bufdir.no/foreldrehverdag/ungdom/digital-hverdag/skadelig-innhold/), [Medietilsynet](https://www.medietilsynet.no/digitale-medier/barn-og-medier/) and [Politiet](https://www.politiet.no/rad/trygg-nettbruk/delbart/) that are
 very good and provide excellent guidance to parents.
 
-# Why are most services limited to persons 13 years old and older
+## Why are most services limited to persons 13 years old and older
 
 The reason for 13 year old limit is due to COPPA, the Child Online Privacy Protection Act, which is an American law, brought in
 to protect the privacy of users under the age of 13. COPPA imposes certain requirements on operators of websites or online services 
@@ -30,13 +30,13 @@ Below is a living list of available parental contols that are curated on a regul
 used. Please 
 
 
-# Account
+## Account
 
 * Apple iOS - https://support.apple.com/en-us/119854
 * Google/Android - https://support.google.com/families/answer/6286986?hl=en&co=GENIE.Platform%3DDesktop&oco=1
 * Microsoft Windows - https://account.microsoft.com/family/windows/coldstart
 
-# Social Media
+## Social Media
 
 * YouTube - https://www.youtube.com/howyoutubeworks/user-settings/parental-controls/
 * Snapchat - https://parents.snapchat.com/parental-controls
@@ -49,7 +49,7 @@ used. Please
 * Zoomerang - https://help.zoomerang.app/en/article/account-privacy-and-safety-ccfxrw/
 * Strava - https://support.strava.com/hc/en-us/articles/4412328250893-Your-Privacy-Control-Defaults-When-You-re-Under-18-on-Strava
   
-# Gaming
+## Gaming
 
 * XBox - https://www.xbox.com/en-US/family-hub
 * Playstation - https://www.playstation.com/en-us/parental-controls/
@@ -58,7 +58,7 @@ used. Please
 * Minecraft - https://www.minecraft.net/en-us/article/parental-controls
   
 
-# Apps without parental controls
+## Apps without parental controls
 
 These are common applications used which do not support parental controls. 
 
@@ -80,7 +80,7 @@ based on the game's content. The age rating is not intended to indicate the diff
 
 Game ratings are based on content.
 
-# About Discord
+## About Discord
 
 Discord is a chat platform that is used extensively by the gaming community, The popularity of Discord makes its a target for scammers, hackers and and spammers. And
 due to the amount of functionality it offers such as text chat, voice, video and screen sharing it can open up your children to different threats and attacks.
