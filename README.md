@@ -53,11 +53,6 @@ based on the game's content. The age rating is not intended to indicate the diff
 
 Game ratings are based on content.
 
-
-
-
-
-
 # Information from Norwegian state services
 
 * https://www.medietilsynet.no/fakta/rapporter/barn-og-medier/
