@@ -9,7 +9,7 @@ You cannot control everything so maintaining a good dialog with them is vital. M
 understand what their kids are doing online so asking questions to help them teach you helps the dialogue mature.  
 
 Finally, treat the internet as both a tool and a weapon much like scissors. Educate your kids and yourself around the various benefits
-and dangers. There is a lot of information available from the various state services such as BufDir, Medietilsynet and Politiet that are
+and dangers. There is a lot of information available from the various state services such as [BufDir](https://www.bufdir.no/foreldrehverdag/ungdom/digital-hverdag/skadelig-innhold/), [Medietilsynet](https://www.medietilsynet.no/digitale-medier/barn-og-medier/) and [Politiet](https://www.politiet.no/rad/trygg-nettbruk/delbart/) that are
 very good and provide excellent guidance to parents.
 
 # Why are most services limited to persons 13 years old and older
@@ -108,3 +108,5 @@ Parents should advise their children not to click the links on private messages 
 * https://www.politiet.no/rad/trygg-nettbruk/seksuell-utnyttelse-av-barn-over-internett/
 * https://www.politiet.no/rad/trygg-nettbruk/delbart/
 * https://www.barnevakten.no/app/jodel/
+* https://www.medietilsynet.no/digitale-medier/barn-og-medier/si-ifra/
+  
