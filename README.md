@@ -58,6 +58,10 @@ used. Please
 * Minecraft - https://www.minecraft.net/en-us/article/parental-controls
   
 
+## Third-party parental control apps
+
+* Ripple (Android + iOS 16+) - https://ripplefocus.github.io/en/parental-control/ - Local Screen Time / Device Owner parental controls with anti-uninstall and anti clock change; keeps WeChat chat while blocking Channels.
+
 ## Apps without parental controls
 
 These are common applications used which do not support parental controls. 
